@@ -76,19 +76,21 @@
  <li>Authentication : Firebase</li>
 </ul>
 
-## 3. Cars Collection Website
+## 3. myBrand(Cloth Brand Shop)
 
-**Description :** Cars Collection Shop, where automotive enthusiasts find a curated selection of high-quality vehicles. User-friendly interface and detailed information on each unique automobile. 
+**Description :** myBrand is a Brand shop where any one can find any cloths of any brands he/she like. 
 
-**[Live Link](https://brand-shop-client-1.web.app)**
+**[Live Link](https://fashion-and-apparel-2fcde.web.app/)**
 
 **Features :** 
 <ul>
- <li>Users can buy any Test and cancel buy tests. (user can see all cars under different brands)</li>
- <li>Implemented user and Admin Functionality.</li>
- <li>Integrated and managed data using MongoDB.
+ <li>if you don't loged in you can not see product details.</li>
+ <li>in add product page you can add new product into the database.</li>
+ <li>In product detail you can add a product in cart section.
 </li>
- <li>Utilized the backend to ensure seamless data flow.</li>
+ <li>In my cart page you can see all of your products that you added to your cart.</li>
+ <li>If you need to delete any product from your cart you can delete it by click the delete button.</li>
+ <li>If you loged in then you can see your email and profile image in navbar.</li>
 </ul>
 
 **Used Technology :** 
