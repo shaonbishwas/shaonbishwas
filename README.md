@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/8KSGkkb/shaon-biswas.jpg" alt="shaonbishwas" />
+<img src="https://i.ibb.co/8KSGkkb/shaon-biswas.jpg" width=100% alt="shaonbishwas" />
 
 <h1 align="center">Hi 👋, I'm Shaon Bishwas</h1>
 <h3 align="center">A passionate Learner from Brahmanbaria, Bangladesh</h3>
