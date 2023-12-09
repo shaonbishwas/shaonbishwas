@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaonbishwas" alt="shaonbishwas" /></a> </p>
 
+- 👩‍🔧 Present Time I'm working with React, Nodejs, expressjs, mongodb.
 - 🌱 I’m currently learning **Redux Toolkit**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shaonbishwas?tab=repositories](https://github.com/shaonbishwas?tab=repositories)
