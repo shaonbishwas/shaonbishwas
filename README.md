@@ -27,19 +27,19 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaonbishwas&" alt="shaonbishwas" /></p>
 
 # ⚡ My Projects
-## 1. Job Finding Website
+## 1. Vote Vista
 
-**Description :** CareerBuilder is a versatile job-finding platform that empowers users to search for jobs based on their skills, and preferences.
+**Description :** Vote Vista is a polling and survey website which is helps people to share their openions.
 
-**[Live Link](https://jobs-platform-client.web.app)**
+**[Live Link](https://votevista.web.app/)**
 
 **Features :** 
 <ul>
- <li>Users can apply for any job, post job and cancel applied job.</li>
- <li>Developed a responsive and intuitive user interface with React.js.</li>
- <li>Integrated and managed data using MongoDB.
+ <li>Users can vote in surveys which is created by respective company or indivitual.</li>
+ <li>Users can become a pro user by some donation and give his/her feedbacks</li>
+ <li>Anyone can se survey results by charts
 </li>
- <li>Utilized the backend to ensure seamless data flow.</li>
+ <li>Your can report any surveys </li>
 </ul>
 
 **Used Technology :** 
