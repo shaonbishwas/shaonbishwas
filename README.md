@@ -1,6 +1,5 @@
+<img src="https://i.ibb.co/Ss1mWyB/github-header-image-1.png" alt="mahsin2004" />
 
-<img src="https://i.ibb.co/Ss1mWyB/github-header-image-1.png" alt="mahsin2004" />
-<img src="https://i.ibb.co/Ss1mWyB/github-header-image-1.png" alt="mahsin2004" />
 <h1 align="center">Hi 👋, I'm Shaon Bishwas</h1>
 <h3 align="center">A passionate Learner from Brahmanbaria, Bangladesh</h3>
 
