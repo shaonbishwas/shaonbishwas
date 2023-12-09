@@ -50,20 +50,22 @@
  <li>Authentication : Firebase</li>
 </ul>
 
-## 2. Diagnostic Center Website
+## 2. Worknest(online job Hunting)
 
-**Description :** Manages appointments, patient records, test results, and administrative tasks for a diagnostic center.
+**Description :** Worknest is a online marketplace which is helps people to find their interested work.
 
-**[Live Link](https://b8a12-server-client.web.app)**
+**[Live Link](https://onlinemarketplace-dd1e2.web.app/)**
 
 **Features :** 
 <ul>
- <li>Implemented user authentication and authorization</li>
- <li>Users can apply for any Test and cancel applied tests.</li>
- <li>Implemented user and Admin Functionality.</li>
- <li>Integrated and managed data using MongoDB.
+ <li>any authorized user can post jobs
 </li>
- <li>Utilized the backend to ensure seamless data flow.</li>
+ <li>any user can bid in jobs of deferent user</li>
+ <li>you can check your bids in a table format</li>
+ <li>you can check bid requests of your jobs
+</li>
+ <li>you can reject or accept bid requests of your job</li>
+ <li>you can update or delete of your jobs</li>
 </ul>
 
 **Used Technology :** 
